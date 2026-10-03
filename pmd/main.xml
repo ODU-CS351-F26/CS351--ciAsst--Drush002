@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.55.0" timestamp="2026-10-03T15:26:23.831">
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.55.0" timestamp="2026-10-03T15:37:06.835">
 <file name="/home/runner/work/CS351--ciAsst--Drush002/CS351--ciAsst--Drush002/src/main/java/edu/odu/cs/MostCommonWords.java">
 <violation beginline="14" endline="14" begincolumn="28" endcolumn="42" rule="LooseCoupling" ruleset="Best Practices" package="edu.odu.cs" class="MostCommonWords" method="MostCommonWords" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_bestpractices.html#loosecoupling" priority="3">
 Avoid using implementation types like 'ArrayList'; use the interface instead
